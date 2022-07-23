@@ -31,7 +31,7 @@
     "release": "npm test && webpack --config=build/webpack.app.config.js --env=production && electron-builder"
   },
   "dependencies": {
-    "file-type": "^10.7.0",
+    "file-type": "^16.5.4",
     "fs-jetpack": "^2.1.0",
     "http-proxy": "^1.17.0",
     "jquery": "^3.3.1",
